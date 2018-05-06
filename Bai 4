@@ -1,0 +1,28 @@
+# BTVN-Chuong2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="2">
+        <tr align="center">
+            <td colspan="3">Top</td>
+        </tr>
+        <tr align="center" >
+            <td rowspan="2">way left</td>
+            <td>middle</td>
+            <td rowspan="2">way right</td>
+        </tr>
+        <tr align="center">
+                <td>middle down</td>
+        </tr>
+        <tr>
+           <td colspan="3">&nbsp;</td>
+        </tr>
+    </table>
+</body>
+</html>
